@@ -10,7 +10,31 @@
 -   Image analysis: Image Processing, analysis, and visualization using Pymol, VMD, WEKA, MAZDA, Discovery Studio, and Chimera.
 -   Statistics & Referencing: SPSS, JASP, R, Endnote, and Mendeley
 -   ICT skills: Proficiency in Microsoft Office Suite (Word, PowerPoint, Excel), Nitro PDF
--   Languages: Fluent in English, Arabic, and Urdu 
+-   Languages: Fluent in English, Arabic, and Urdu
+
+-   Hi !!!
+see my cv at https://flowcv.com/resume/hde9jfak13
+please don't hesitate asking my CV,
+Thanks for visiting my page,
+i am a Data Engineer & Bioinformatician
+
+I am a results-driven Data Engineer with a proven track record of designing, building, and optimizing scalable data architectures. My expertise spans cloud platforms like AWS, Azure, and Google Cloud, where I develop robust data pipelines that empower businesses to make data-driven decisions. I excel at solving complex data challenges, implementing data governance and security protocols, and optimizing storage solutions to meet business objectives.
+
+Currently, I serve as Senior Data Engineer at Metasol, a dynamic startup, where I not only develop and maintain high-performance ETL pipelines but also lead and manage a talented team of engineers. I am responsible for designing the data architecture, automating database processes, and ensuring data accuracy across our systems. Under my leadership, we’ve consistently improved pipeline performance, reduced processing times, and implemented cutting-edge solutions for data provisioning and governance.
+
+With a strong background in bioinformatics and healthcare data, I have successfully led projects that integrate clinical, operational, and administrative data across healthcare systems, ensuring scalability, performance, and regulatory compliance. My work includes architecting cloud-based solutions, securing sensitive data, and collaborating closely with cross-functional teams to align our data strategy with long-term business goals.
+
+Key Skills:
+
+Data Engineering (ETL/ELT, Data Warehousing, Cloud Data Solutions)
+Cloud Platforms (AWS, Azure, Google Cloud)
+Data Governance & Security (HIPAA, GDPR Compliance)
+Database Performance Optimization
+Data Modeling (Dimensional, Physical & Logical)
+AI (Machine Learning and Deep Learning)
+Team Leadership & Management
+SQL, Python, Snowflake, Matillion
+I am passionate about staying ahead of the curve with the latest technologies and trends, and I am always looking for new opportunities to apply my skills to solve complex data challenges and lead innovative projects.
 
 
 -  How to reach me : faisal-sardar@hotmail.com
