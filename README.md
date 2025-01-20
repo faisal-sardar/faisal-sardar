@@ -13,7 +13,7 @@
 -   Languages: Fluent in English, Arabic, and Urdu
 
 -   Hi !!!
-see my cv at https://flowcv.com/resume/hde9jfak13
+
 please don't hesitate asking my CV,
 Thanks for visiting my page,
 i am a Data Engineer & Bioinformatician
